@@ -1,2 +1,2 @@
-import crack
-crack._login()
+import smbf
+smbf.joker()
